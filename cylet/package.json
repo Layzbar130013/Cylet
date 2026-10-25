@@ -1,0 +1,26 @@
+{
+  "name": "cylet-supermarket",
+  "version": "1.0.0",
+  "description": "Modern E-Commerce Supermarket website for Cylet Supermarket in Embu, Kenya",
+  "type": "module",
+  "scripts": {
+    "start": "python3 serve.py",
+    "serve": "python3 -m http.server 3000",
+    "build": "node scripts/bundle.js && node scripts/compress.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "cylet",
+    "supermarket",
+    "embu",
+    "kenya",
+    "ecommerce",
+    "react",
+    "tailwindcss",
+    "grocery"
+  ],
+  "author": "Cylet Supermarkets Ltd.",
+  "license": "MIT"
+}

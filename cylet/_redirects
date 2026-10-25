@@ -1,0 +1,3 @@
+# Single-Page Application (SPA) routing for Cylet Supermarket
+# Routes all browser URLs to /index.html with HTTP 200 status
+/*    /index.html   200
