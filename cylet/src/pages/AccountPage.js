@@ -18,7 +18,7 @@ export const AccountPage = ({
       {
         id: 'addr-1',
         title: 'Home Address',
-        address: 'Embu - Siakago Road (near Kubukubu Rd.)',
+        address: 'Embu - Siakago Road near Kubukubu Rd.',
         city: 'Embu',
         phone: '+254 712 345 678',
         isDefault: true,
