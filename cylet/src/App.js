@@ -105,7 +105,7 @@ const DEFAULT_SETTINGS = {
   logoUrl: 'https://pbs.twimg.com/profile_banners/834417350321512449/1487776302/1500x500',
   supportEmail: 'cyletsupermarkets@gmail.com',
   phone: '+254 20 2003310',
-  address: 'Embu - Siakago Road (near Kubukubu Rd.) in Embu, Kenya',
+  address: 'Embu - Siakago Road near Kubukubu Rd. in Embu, Kenya',
   deliveryFee: 250.0,
   freeDeliveryThreshold: 3000.0,
   curbsideFee: 0.0,
@@ -672,7 +672,7 @@ export const App = () => {
         updateSEO({
           title: 'Cylet Supermarket - Embu, Kenya',
           description:
-            'Cylet is your trusted community grocer located on Siakago Road (near Kubukubu Rd.) in Embu, Kenya.',
+            'Cylet is your trusted community grocer located on Siakago Road near Kubukubu Rd. in Embu, Kenya.',
           pageType: 'generic',
         });
     }
