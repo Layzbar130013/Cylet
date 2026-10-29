@@ -66,7 +66,7 @@ export const LoginPage = ({
           avatar: name.trim().split(' ').map((n) => n[0]).join('').toUpperCase().slice(0, 2) || 'CS',
           badgeColor: 'amber',
           status: 'Active',
-          branch: 'Siakago Road (near Kubukubu Rd.) - Embu, Kenya',
+          branch: 'Siakago Road near Kubukubu Rd. - Embu, Kenya',
           lastLogin: 'Just now',
           loyaltyPoints: 150,
           savedAddresses: [
